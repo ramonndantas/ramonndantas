@@ -1,8 +1,8 @@
 # 👨‍💻 Ramon Dantas
 
-**`Estudante de Análise e Desenvolvimento de   Softwere`**
+**`Estudante de Análise e Desenvolvimento de Softwere`**
 
-Me chamo Ramon Dantas, vim da terra do sol forte, Aurora no Ceará, e agora estou começando minha jornada no mundo da tecnologia. Sou estudante de Análise e Desenvolvimento de Software na UNINTER, aprendendo os primeiros passos em programação e me encantando cada dia mais com esse universo.
+Me chamo Ramon Dantas, sou da terra do sol forte, Lavras da Mangabeira Ceará, e agora estou começando minha jornada no mundo da tecnologia. Sou estudante de Análise e Desenvolvimento de Software na UNINTER, aprendendo os primeiros passos em programação e me encantando cada dia mais com esse universo.
 
 No momento, estou focado em entender os fundamentos, quebrando a cabeça (e as vezes o código) pra evoluir. Ainda não sou um expert, mas tenho muita vontade de aprender e crescer na área!
 
