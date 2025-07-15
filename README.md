@@ -81,6 +81,14 @@ No momento, estou focado em entender os fundamentos, quebrando a cabeça (e as v
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
+<img 
+    align="left" 
+    alt="Apache"
+    title="Apache"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original.svg" 
+/>
 
 
 
